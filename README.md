@@ -35,7 +35,7 @@ DataSet/
       Moderate Impairment/
 ```
 
-Each folder contains `.jpg`, `.jpeg`, or `.png` MRI slices.
+Each folder contains `.jpg` MRI images.
 
 Mild Impairment
 
