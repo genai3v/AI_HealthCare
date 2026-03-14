@@ -35,7 +35,7 @@ DataSet/
       Moderate Impairment/
 ```
 
-Each folder contains `.jpg` MRI images.
+Each folder contains `.jpg` MRI images. Sample for each category is as below:
 
 Mild Impairment
 
