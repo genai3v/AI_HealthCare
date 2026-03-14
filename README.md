@@ -68,7 +68,7 @@ pip install monai nibabel matplotlib seaborn scikit-learn torch torchvision
 
 ---
 
-## 📦 Key Dependencies  
+##  Key Dependencies  
 - **MONAI** – medical imaging deep learning framework  
 - **PyTorch** – model training backend  
 - **Nibabel** – MRI/NIfTI handling  
